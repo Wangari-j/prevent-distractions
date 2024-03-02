@@ -12,4 +12,4 @@ def prevent_distraction(str):
     else:
         return "Safe watching"
     
-    print(prevent_distraction(anime))
+print(prevent_distraction("anime"))
